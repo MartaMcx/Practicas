@@ -1,4 +1,4 @@
-summonerName,team,teamId,Season,games,championName,key,Win,lose,kills,assists,deaths,killsT,assistsT,deathsT,kda,ban,Avg BT,wR,Presence
+Jugador,team,teamId,Season,games,campeon,key,Win,lose,kills,assists,deaths,killsT,assistsT,deathsT,kda,ban,Avg BT,wR,Presence
 Markoon,SK,Blue,Winter_Season,41,Sejuani,113,22.0,19.0,1.0,4.0,0.0,68.0,305.0,88.0,4.238636363636363,8.0,5.0,0.5365853658536586,92.45283018867924
 Xerxe,XL,Red,Winter_Season,41,Sejuani,113,22.0,19.0,0.0,4.0,2.0,68.0,305.0,88.0,4.238636363636363,8.0,6.0,0.5365853658536586,92.45283018867924
 Razork,FNC,Red,Spring_Season,41,Sejuani,113,22.0,19.0,1.0,1.0,2.0,68.0,305.0,88.0,4.238636363636363,8.0,3.0,0.5365853658536586,92.45283018867924
